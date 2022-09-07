@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI33.dll"</Assembly>
+		<AddInId>6CB103B6-8334-4468-9900-CADF27DC011B</AddInId>
+		<FullClassName>RevitAPI33.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для Revit 3.3</Text>
+	</AddIn>
+</RevitAddIns>
